@@ -1,0 +1,25 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PHP
+*.log
+config.local.php
+
+# Dependencies
+node_modules/
+composer.lock
+
+# Cache
+.cache/
+
+# Environment
+.env
+.env.local
